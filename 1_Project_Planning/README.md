@@ -13,10 +13,10 @@ Analyze simulated SKIMS men’s retail sales to identify high-performing product
 Simulated U.S. online sales for the SKIMS men’s product line from January through December 2025.
 
 ## Business Questions
-Which products sold the most units and generated the most revenue?
-Which colors were the most popular?
-Which sizes had the highest demand?
-Which months performed the best?
+1. Which products sold the most units and generated the most revenue?
+2. Which colors were the most popular?
+3. Which sizes had the highest demand?
+4. Which months performed the best?
 
 ## Data Approach
 Publicly available SKIMS product information was used for product details, while transaction-level sales data was simulated in Python for portfolio and educational purposes. The simulated data does not represent actual SKIMS internal sales.
