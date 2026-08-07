@@ -59,8 +59,11 @@ The simulated dataset contains:
 
 ## Tableau Dashboard
 
-**Interactive Tableau dashboard link coming here.**
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/SKIMSMensSalesPerformanceAnalysis/SKIMSMensSalesPerformanceDashboard_SimulatedU_S_OnlineSalesJanuaryDecember20251200TransactionLineItems860Orders?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![SKIMS Men’s Sales Performance Dashboard](4_Visualizations/skims_sales_dashboard.png)
+
+[View Final Report](5_Final_Report/YOUR_FINAL_REPORT_FILENAME.pdf)
 ## Analysis Workflow
 
 Planning → Data Generation → Data Validation → BigQuery / SQL Analysis → Tableau Visualization → Business Recommendations
