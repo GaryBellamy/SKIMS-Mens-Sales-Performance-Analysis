@@ -1,0 +1,12 @@
+quality_metric,result
+transaction_line_items,1200
+unique_orders,860
+unique_line_item_ids,1200
+missing_required_values,0
+invalid_product_ids,0
+dates_outside_2025,0
+invalid_quantities,0
+invalid_sizes,0
+invalid_colors,0
+price_mismatches,0
+duplicate_full_rows,0

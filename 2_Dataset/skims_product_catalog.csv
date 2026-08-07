@@ -1,0 +1,9 @@
+product_id,product_name,product_category,list_price_usd,available_sizes,available_colors,source_url,date_accessed
+P001,Heavyweight Cotton Men's Cropped Muscle Tank,Tanks,48.00,"XS, S, M, L, XL, 2X, 3X, 4X, 5X","Atmosphere, Chalk, Buff, Obsidian, Washed Red",https://skims.com/products/heavyweight-cotton-mens-cropped-muscle-tank-atmosphere,2026-08-05
+P002,SKIMS Cotton Men's Classic T-Shirt,T-Shirts,44.00,"XS, S, M, L, XL, 2X, 3X, 4X","Navy, Light Heather Grey, Stone, Driftwood, Chalk, Onyx",https://skims.com/products/skims-cotton-mens-classic-t-shirt-navy,2026-08-05
+P003,Heavyweight Cotton Men's Relaxed Cropped Crewneck,Crewnecks,54.00,"XS, S, M, L, XL, 2X, 3X, 4X, 5X","Chalk, Obsidian, Atmosphere, Raven",https://skims.com/products/heavyweight-cotton-mens-relaxed-cropped-crewneck-chalk,2026-08-05
+P004,Heavyweight Cotton Men's Relaxed Long Sleeve T-Shirt,Long Sleeve T-Shirts,58.00,"XS, S, M, L, XL, 2X, 3X, 4X, 5X","Chalk, Raven, Obsidian, Damson, Atmosphere",https://skims.com/products/heavyweight-cotton-mens-relaxed-long-sleeve-t-shirt-chalk,2026-08-05
+P005,"SKIMS Stretch Men's 3"" Boxer Brief",Boxer Briefs,20.00,"XS, S, M, L, XL, 2X, 3X, 4X, 5X","Obsidian, Chalk, Gunmetal, Laurel, Loden, Oyster, Currant",https://skims.com/products/skims-stretch-mens-3-inch-boxer-brief-obsidian,2026-08-05
+P006,Woven Men's Pull-On Pant,Pants,88.00,"XS, S, M, L, XL, 2X, 3X, 4X, 5X","Jungle, Pacific, Ash, Stone",https://skims.com/products/woven-mens-pull-on-pant-jungle,2026-08-05
+P007,Fleece Lounge Men's Classic Straight Leg Pant,Loungewear Pants,98.00,"XS, S, M, L, XL, 2X, 3X, 4X, 5X","Jungle, Navy, Shadow, Washed Red, Light Heather Grey, Washed Onyx",https://skims.com/products/fleece-lounge-mens-classic-straight-leg-pant-jungle,2026-08-05
+P008,SKIMS Cotton Rib Men's Brief,Briefs,22.00,"XS, S, M, L, XL, 2X, 3X, 4X, 5X","Jungle, Onyx, Chalk, Light Heather Grey",https://skims.com/products/skims-cotton-rib-mens-brief-jungle,2026-08-05
